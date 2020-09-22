@@ -1,0 +1,30 @@
+{
+    "usageCount": 1308, 
+    "omitTrigger": false, 
+    "prompt": false, 
+    "description": "<ctrl>+m to <enter>", 
+    "abbreviation": {
+        "wordChars": "[\\w]", 
+        "abbreviations": [], 
+        "immediate": false, 
+        "ignoreCase": false, 
+        "backspace": true, 
+        "triggerInside": false
+    }, 
+    "hotkey": {
+        "hotKey": "m", 
+        "modifiers": [
+            "<ctrl>"
+        ]
+    }, 
+    "modes": [
+        3
+    ], 
+    "showInTrayMenu": false, 
+    "filter": {
+        "regex": "", 
+        "isRecursive": false
+    }, 
+    "type": "script", 
+    "store": {}
+}
