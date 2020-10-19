@@ -1,28 +1,28 @@
 {
-    "usageCount": 3, 
-    "omitTrigger": false, 
-    "prompt": false, 
-    "description": "<ctrl>+b to <left>", 
+    "type": "script",
+    "description": "<ctrl>+b to <left>",
+    "store": {},
+    "modes": [
+        3
+    ],
+    "usageCount": 3,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": false,
     "abbreviation": {
-        "wordChars": "[\\w]", 
-        "abbreviations": [], 
-        "immediate": false, 
-        "ignoreCase": false, 
-        "backspace": true, 
-        "triggerInside": false
-    }, 
+        "abbreviations": [],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
     "hotkey": {
-        "hotKey": "b", 
-        "modifiers": [
-            "<ctrl>"
-        ]
-    }, 
-    "modes": [], 
-    "showInTrayMenu": false, 
+        "modifiers": [],
+        "hotKey": "b"
+    },
     "filter": {
-        "regex": null, 
+        "regex": "evince.Evince",
         "isRecursive": false
-    }, 
-    "type": "script", 
-    "store": {}
+    }
 }

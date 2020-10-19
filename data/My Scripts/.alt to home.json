@@ -1,31 +1,31 @@
 {
-    "usageCount": 183, 
-    "omitTrigger": false, 
-    "prompt": false, 
-    "description": "<alt>+< to <home>", 
-    "abbreviation": {
-        "wordChars": "[\\w]", 
-        "abbreviations": [], 
-        "immediate": false, 
-        "ignoreCase": false, 
-        "backspace": true, 
-        "triggerInside": false
-    }, 
-    "hotkey": {
-        "hotKey": ",", 
-        "modifiers": [
-            "<alt>", 
-            "<shift>"
-        ]
-    }, 
+    "type": "script",
+    "description": "<alt>+< to <home>",
+    "store": {},
     "modes": [
         3
-    ], 
-    "showInTrayMenu": false, 
+    ],
+    "usageCount": 213,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": false,
+    "abbreviation": {
+        "abbreviations": [],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [
+            "<alt>",
+            "<shift>"
+        ],
+        "hotKey": ","
+    },
     "filter": {
-        "regex": null, 
+        "regex": "evince.Evince|google-chrome.Google-chrome",
         "isRecursive": false
-    }, 
-    "type": "script", 
-    "store": {}
+    }
 }

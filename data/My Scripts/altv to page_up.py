@@ -1,6 +1,1 @@
-if window.get_active_class() == "VirtualBox Machine.VirtualBox Machine":
-    exit
-elif window.get_active_class() == "emacs.Emacs":
-    keyboard.send_keys("<alt>+v")
-else:
-    keyboard.send_keys("<page_up>")  
+keyboard.send_keys("<page_up>")  

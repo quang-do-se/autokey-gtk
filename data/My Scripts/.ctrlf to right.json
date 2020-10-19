@@ -1,28 +1,28 @@
 {
-    "usageCount": 10, 
-    "omitTrigger": false, 
-    "prompt": false, 
-    "description": "<ctrl>+f to <right>", 
+    "type": "script",
+    "description": "<ctrl>+f to <right>",
+    "store": {},
+    "modes": [
+        3
+    ],
+    "usageCount": 10,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": false,
     "abbreviation": {
-        "wordChars": "[\\w]", 
-        "abbreviations": [], 
-        "immediate": false, 
-        "ignoreCase": false, 
-        "backspace": true, 
-        "triggerInside": false
-    }, 
+        "abbreviations": [],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
     "hotkey": {
-        "hotKey": "f", 
-        "modifiers": [
-            "<ctrl>"
-        ]
-    }, 
-    "modes": [], 
-    "showInTrayMenu": false, 
+        "modifiers": [],
+        "hotKey": "f"
+    },
     "filter": {
-        "regex": null, 
+        "regex": "evince.Evince",
         "isRecursive": false
-    }, 
-    "type": "script", 
-    "store": {}
+    }
 }
