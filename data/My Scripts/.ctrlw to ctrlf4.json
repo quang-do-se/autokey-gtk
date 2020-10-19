@@ -5,7 +5,7 @@
     "modes": [
         3
     ],
-    "usageCount": 29,
+    "usageCount": 37,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -24,7 +24,7 @@
         "hotKey": "w"
     },
     "filter": {
-        "regex": null,
+        "regex": "evince.Evince|google-chrome.Google-chrome",
         "isRecursive": false
     }
 }
