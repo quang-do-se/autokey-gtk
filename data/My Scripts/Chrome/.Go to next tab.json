@@ -1,11 +1,11 @@
 {
     "type": "script",
-    "description": "<ctrl>+m to <enter>",
+    "description": "Go to next tab",
     "store": {},
     "modes": [
         3
     ],
-    "usageCount": 1488,
+    "usageCount": 1,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -21,10 +21,10 @@
         "modifiers": [
             "<ctrl>"
         ],
-        "hotKey": "m"
+        "hotKey": "]"
     },
     "filter": {
-        "regex": "autokey-gtk.Autokey-gtk|org.gnome.Nautilus.Org.gnome.Nautilus|ulauncher.Ulauncher|evince.Evince|google-chrome.Google-chrome|copyq.copyq",
+        "regex": "google-chrome.Google-chrome",
         "isRecursive": false
     }
 }
