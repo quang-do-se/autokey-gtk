@@ -5,7 +5,7 @@
     "modes": [
         3
     ],
-    "usageCount": 8,
+    "usageCount": 17,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -21,7 +21,7 @@
         "modifiers": [
             "<alt>"
         ],
-        "hotKey": "f"
+        "hotKey": "]"
     },
     "filter": {
         "regex": "org.gnome.Nautilus.Org.gnome.Nautilus|google-chrome.Google-chrome",

@@ -1,6 +1,6 @@
 {
     "type": "script",
-    "description": "Home",
+    "description": "Paste",
     "store": {},
     "modes": [
         3
@@ -21,10 +21,10 @@
         "modifiers": [
             "<ctrl>"
         ],
-        "hotKey": "h"
+        "hotKey": "y"
     },
     "filter": {
-        "regex": "org.gnome.Nautilus.Org.gnome.Nautilus",
+        "regex": "google-chrome.Google-chrome",
         "isRecursive": false
     }
 }
