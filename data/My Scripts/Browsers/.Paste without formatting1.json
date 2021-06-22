@@ -1,11 +1,11 @@
 {
     "type": "script",
-    "description": "Go to previous tab",
+    "description": "Paste without formatting",
     "store": {},
     "modes": [
         3
     ],
-    "usageCount": 2,
+    "usageCount": 3,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -19,12 +19,13 @@
     },
     "hotkey": {
         "modifiers": [
-            "<ctrl>"
+            "<ctrl>",
+            "<shift>"
         ],
-        "hotKey": "["
+        "hotKey": "y"
     },
     "filter": {
-        "regex": "google-chrome.Google-chrome",
+        "regex": "google-chrome.Google-chrome|Navigator.Firefox",
         "isRecursive": false
     }
 }
