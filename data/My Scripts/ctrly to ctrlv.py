@@ -1,1 +1,1 @@
-keyboard.send_keys("<ctrl>+y")
+keyboard.send_keys("<ctrl>+v")
