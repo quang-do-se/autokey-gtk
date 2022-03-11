@@ -24,7 +24,7 @@
         "hotKey": "m"
     },
     "filter": {
-        "regex": "autokey-gtk.Autokey-gtk|org.gnome.Nautilus.Org.gnome.Nautilus|ulauncher.Ulauncher|evince.Evince|google-chrome.Google-chrome|copyq.copyq|Navigator.Firefox|jetbrains-pycharm-ce.jetbrains-pycharm-ce",
+        "regex": "autokey-gtk.Autokey-gtk|org.gnome.Nautilus.Org.gnome.Nautilus|ulauncher.Ulauncher|evince.Evince|google-chrome.Google-chrome|copyq.copyq|Navigator.firefox|jetbrains-pycharm-ce.jetbrains-pycharm-ce",
         "isRecursive": false
     }
 }
