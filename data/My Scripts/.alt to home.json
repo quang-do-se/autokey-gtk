@@ -25,7 +25,7 @@
         "hotKey": ","
     },
     "filter": {
-        "regex": "evince.Evince|google-chrome.Google-chrome|Navigator.Firefox",
+        "regex": "evince.Evince|google-chrome.Google-chrome|Navigator.firefox",
         "isRecursive": false
     }
 }

@@ -24,7 +24,7 @@
         "hotKey": "n"
     },
     "filter": {
-        "regex": "ulauncher.Ulauncher|evince.Evince|google-chrome.Google-chrome|copyq.copyq|org.gnome.Nautilus.Org.gnome.Nautilus|Navigator.Firefox",
+        "regex": "ulauncher.Ulauncher|evince.Evince|google-chrome.Google-chrome|copyq.copyq|org.gnome.Nautilus.Org.gnome.Nautilus|Navigator.firefox",
         "isRecursive": false
     }
 }
