@@ -5,7 +5,7 @@
     "modes": [
         3
     ],
-    "usageCount": 2100,
+    "usageCount": 2391,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -24,7 +24,7 @@
         "hotKey": "m"
     },
     "filter": {
-        "regex": "autokey-gtk.Autokey-gtk|org.gnome.Nautilus.Org.gnome.Nautilus|ulauncher.Ulauncher|evince.Evince|google-chrome.Google-chrome|copyq.copyq|Navigator.firefox|jetbrains-pycharm-ce.jetbrains-pycharm-ce|jetbrains-idea-ce.jetbrains-idea-ce",
+        "regex": "autokey-gtk.Autokey-gtk|org.gnome.Nautilus.Org.gnome.Nautilus|ulauncher.Ulauncher|evince.Evince|google-chrome.Google-chrome|copyq.copyq|Navigator.firefox|jetbrains-pycharm-ce.jetbrains-pycharm-ce|jetbrains-idea-ce.jetbrains-idea-ce|discord.discord",
         "isRecursive": false
     }
 }
